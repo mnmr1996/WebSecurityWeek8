@@ -45,7 +45,9 @@ Vulnerability #2: Cross-Site Request Forgery (CSRF)
 When changing the value of csrd_token, we still can make a change. other colors retun some error message
 
 ## extra
+
 #1. another xss vulnerability found on the green website. you can force someone to go to a malicous website if they click on the feedback button
+
 #2. (another blue problem) Session Hijacking / Fixation - A new session ID is not regenerated when logging back in.
 
 
